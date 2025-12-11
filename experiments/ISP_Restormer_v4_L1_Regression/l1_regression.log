@@ -1,0 +1,35 @@
+2025-11-26 02:10:39,864 | INFO | Global Seed set to 42
+2025-11-26 02:10:39,864 | INFO | Config: Strategy 3 - L1 Regression Fine-tuning
+2025-11-26 02:10:40,878 | INFO | 🔥 Loading Pre-trained weights for L1 Regression from: ./experiments/ISP_Restormer_v4_Finetune/best_model_finetuned.pt
+2025-11-26 02:10:41,050 | INFO | ✅ Weights loaded. Resetting optimizer for L1 focus.
+2025-11-26 02:33:27,906 | INFO | Epoch 1 | Train Loss: 0.5647 | Val DeltaE: 6.5360
+2025-11-26 02:33:28,707 | INFO | 🏆 New Best Score: 6.5360
+2025-11-26 02:50:57,265 | INFO | Epoch 2 | Train Loss: 0.5476 | Val DeltaE: 6.4504
+2025-11-26 02:50:57,875 | INFO | 🏆 New Best Score: 6.4504
+2025-11-26 03:08:06,930 | INFO | Epoch 3 | Train Loss: 0.5391 | Val DeltaE: 6.3519
+2025-11-26 03:08:07,479 | INFO | 🏆 New Best Score: 6.3519
+2025-11-26 03:23:59,853 | INFO | Epoch 4 | Train Loss: 0.5317 | Val DeltaE: 6.3036
+2025-11-26 03:24:00,341 | INFO | 🏆 New Best Score: 6.3036
+2025-11-26 03:39:19,927 | INFO | Epoch 5 | Train Loss: 0.5300 | Val DeltaE: 6.2814
+2025-11-26 03:39:20,472 | INFO | 🏆 New Best Score: 6.2814
+2025-11-26 03:54:38,393 | INFO | Epoch 6 | Train Loss: 0.5251 | Val DeltaE: 6.2682
+2025-11-26 03:54:39,011 | INFO | 🏆 New Best Score: 6.2682
+2025-11-26 04:09:57,853 | INFO | Epoch 7 | Train Loss: 0.5261 | Val DeltaE: 6.2908
+2025-11-26 04:25:16,288 | INFO | Epoch 8 | Train Loss: 0.5245 | Val DeltaE: 6.2570
+2025-11-26 04:25:16,929 | INFO | 🏆 New Best Score: 6.2570
+2025-11-26 04:40:31,995 | INFO | Epoch 9 | Train Loss: 0.5228 | Val DeltaE: 6.2758
+2025-11-26 04:55:49,322 | INFO | Epoch 10 | Train Loss: 0.5233 | Val DeltaE: 6.2463
+2025-11-26 04:55:49,817 | INFO | 🏆 New Best Score: 6.2463
+2025-11-26 05:10:56,934 | INFO | Epoch 11 | Train Loss: 0.5212 | Val DeltaE: 6.1991
+2025-11-26 05:10:57,439 | INFO | 🏆 New Best Score: 6.1991
+2025-11-26 05:26:06,520 | INFO | Epoch 12 | Train Loss: 0.5204 | Val DeltaE: 6.2384
+2025-11-26 05:41:14,453 | INFO | Epoch 13 | Train Loss: 0.5207 | Val DeltaE: 6.2428
+2025-11-26 05:56:21,608 | INFO | Epoch 14 | Train Loss: 0.5189 | Val DeltaE: 6.2691
+2025-11-26 06:11:30,319 | INFO | Epoch 15 | Train Loss: 0.5196 | Val DeltaE: 6.2432
+2025-11-26 06:26:40,833 | INFO | Epoch 16 | Train Loss: 0.5186 | Val DeltaE: 6.2491
+2025-11-26 06:41:49,221 | INFO | Epoch 17 | Train Loss: 0.5175 | Val DeltaE: 6.2026
+2025-11-26 06:56:59,170 | INFO | Epoch 18 | Train Loss: 0.5178 | Val DeltaE: 6.2350
+2025-11-26 07:12:05,695 | INFO | Epoch 19 | Train Loss: 0.5176 | Val DeltaE: 6.2274
+2025-11-26 07:27:13,691 | INFO | Epoch 20 | Train Loss: 0.5178 | Val DeltaE: 6.2485
+2025-11-26 07:27:14,237 | INFO | Performing Model Averaging (L1 Regression)...
+2025-11-26 07:27:14,572 | INFO | 💾 L1 Regression model saved as: ./experiments\ISP_Restormer_v4_L1_Regression\best_model_l1.pt

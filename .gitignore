@@ -1,0 +1,80 @@
+# --- Python 通用 ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- 虛擬環境 (Virtual Environments) ---
+# 避免上傳你的 Python 環境包
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+anaconda3/
+miniconda3/
+
+# --- IDE 設定 (不需要上傳個人的編輯器設定) ---
+.vscode/
+.idea/
+*.swp
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- 深度學習 / PyTorch / YOLO 專用 ---
+
+# 1. 忽略大型權重檔 (Weights)
+# 這些檔案通常很大 (100MB+)，不適合放 GitHub
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.engine
+*.weights
+
+# 2. 忽略訓練結果與日誌 (Training Logs & Runs)
+# YOLOv8 預設會把訓練結果存在 runs/ 資料夾
+runs/
+wandb/
+logs/
+results/
+
+# 3. 忽略數據集 (Datasets)
+# 圖片數據通常好幾 GB，絕對不要上傳
+dataset/
+datasets/
+data/
+!src/data/
+# 或者是你自己放圖片的資料夾名稱，例如：
+# train_images/
+# val_images/
+
+# 4. 其他常見的大型暫存檔
+*.cache
+
+# 5. 輸出目錄
+outputs/
+
+# 6. 大型提交檔案
+submission*.csv

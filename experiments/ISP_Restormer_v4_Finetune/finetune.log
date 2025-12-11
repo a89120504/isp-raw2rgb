@@ -1,0 +1,78 @@
+2025-11-24 20:15:45,528 | INFO | Global Seed set to 42
+2025-11-24 20:15:45,528 | INFO | Config: Fine-tune Model A (Low LR, High Color Weight)
+2025-11-24 20:15:46,508 | INFO | 🔥 Loading Pre-trained weights from: ./experiments/ISP_Restormer_v4_Final/best_model.pt
+2025-11-24 20:15:46,618 | INFO | ✅ Weights loaded successfully. Starting fine-tuning from epoch 0.
+2025-11-24 20:21:58,560 | INFO | Global Seed set to 42
+2025-11-24 20:21:58,560 | INFO | Config: Fine-tune Model A (Low LR, High Color Weight)
+2025-11-24 20:21:59,360 | INFO | 🔥 Loading Pre-trained weights from: ./experiments/ISP_Restormer_v4_Final/best_model.pt
+2025-11-24 20:21:59,470 | INFO | ✅ Weights loaded successfully. Starting fine-tuning from epoch 0.
+2025-11-24 20:22:41,347 | INFO | Global Seed set to 42
+2025-11-24 20:22:41,347 | INFO | Config: Fine-tune Model A (Low LR, High Color Weight)
+2025-11-24 20:22:42,167 | INFO | 🔥 Loading Pre-trained weights from: ./experiments/ISP_Restormer_v4_Final/best_model.pt
+2025-11-24 20:22:42,296 | INFO | ✅ Weights loaded successfully. Starting fine-tuning from epoch 0.
+2025-11-24 20:50:22,600 | INFO | Epoch 1 | Train Loss: 2.0278 | Val DeltaE: 7.7187
+2025-11-24 20:50:23,643 | INFO | 🏆 New Best Score: 7.7187
+2025-11-24 21:32:30,045 | INFO | Epoch 2 | Train Loss: 1.9143 | Val DeltaE: 7.7299
+2025-11-24 21:57:18,882 | INFO | Epoch 3 | Train Loss: 1.8673 | Val DeltaE: 7.3604
+2025-11-24 21:57:20,106 | INFO | 🏆 New Best Score: 7.3604
+2025-11-24 22:25:41,020 | INFO | Epoch 4 | Train Loss: 1.8145 | Val DeltaE: 7.3393
+2025-11-24 22:25:41,744 | INFO | 🏆 New Best Score: 7.3393
+2025-11-24 22:40:31,598 | INFO | Epoch 5 | Train Loss: 1.7952 | Val DeltaE: 7.2397
+2025-11-24 22:40:32,353 | INFO | 🏆 New Best Score: 7.2397
+2025-11-24 22:55:23,361 | INFO | Epoch 6 | Train Loss: 1.7183 | Val DeltaE: 7.1141
+2025-11-24 22:55:24,103 | INFO | 🏆 New Best Score: 7.1141
+2025-11-24 23:12:46,530 | INFO | Epoch 7 | Train Loss: 1.7033 | Val DeltaE: 6.9750
+2025-11-24 23:12:47,313 | INFO | 🏆 New Best Score: 6.9750
+2025-11-24 23:30:08,135 | INFO | Epoch 8 | Train Loss: 1.6932 | Val DeltaE: 7.0049
+2025-11-24 23:45:58,271 | INFO | Epoch 9 | Train Loss: 1.6793 | Val DeltaE: 6.9320
+2025-11-24 23:45:59,102 | INFO | 🏆 New Best Score: 6.9320
+2025-11-25 00:02:30,116 | INFO | Epoch 10 | Train Loss: 1.6622 | Val DeltaE: 6.9691
+2025-11-25 00:19:54,062 | INFO | Epoch 11 | Train Loss: 1.6669 | Val DeltaE: 6.9021
+2025-11-25 00:19:54,929 | INFO | 🏆 New Best Score: 6.9021
+2025-11-25 00:37:29,359 | INFO | Epoch 12 | Train Loss: 1.6580 | Val DeltaE: 6.9207
+2025-11-25 01:20:45,879 | INFO | Epoch 13 | Train Loss: 1.6510 | Val DeltaE: 6.9403
+2025-11-25 01:50:40,877 | INFO | Epoch 14 | Train Loss: 1.6378 | Val DeltaE: 6.9836
+2025-11-25 02:16:26,079 | INFO | Epoch 15 | Train Loss: 1.6533 | Val DeltaE: 6.9391
+2025-11-25 02:36:10,737 | INFO | Epoch 16 | Train Loss: 1.6307 | Val DeltaE: 6.8805
+2025-11-25 02:36:11,597 | INFO | 🏆 New Best Score: 6.8805
+2025-11-25 02:53:17,574 | INFO | Epoch 17 | Train Loss: 1.6439 | Val DeltaE: 6.9135
+2025-11-25 03:08:36,480 | INFO | Epoch 18 | Train Loss: 1.6276 | Val DeltaE: 6.9436
+2025-11-25 03:23:48,641 | INFO | Epoch 19 | Train Loss: 1.6261 | Val DeltaE: 6.8745
+2025-11-25 03:23:49,489 | INFO | 🏆 New Best Score: 6.8745
+2025-11-25 03:38:58,986 | INFO | Epoch 20 | Train Loss: 1.6269 | Val DeltaE: 6.9442
+2025-11-25 03:54:10,317 | INFO | Epoch 21 | Train Loss: 1.6274 | Val DeltaE: 6.8945
+2025-11-25 04:09:24,033 | INFO | Epoch 22 | Train Loss: 1.6129 | Val DeltaE: 6.7705
+2025-11-25 04:09:24,865 | INFO | 🏆 New Best Score: 6.7705
+2025-11-25 04:24:37,845 | INFO | Epoch 23 | Train Loss: 1.5924 | Val DeltaE: 6.7416
+2025-11-25 04:24:38,583 | INFO | 🏆 New Best Score: 6.7416
+2025-11-25 04:41:23,681 | INFO | Epoch 24 | Train Loss: 1.5944 | Val DeltaE: 6.9129
+2025-11-25 04:57:25,611 | INFO | Epoch 25 | Train Loss: 1.5944 | Val DeltaE: 6.7773
+2025-11-25 05:12:45,050 | INFO | Epoch 26 | Train Loss: 1.5906 | Val DeltaE: 6.8417
+2025-11-25 05:27:52,099 | INFO | Epoch 27 | Train Loss: 1.5857 | Val DeltaE: 6.8178
+2025-11-25 05:43:04,451 | INFO | Epoch 28 | Train Loss: 1.5890 | Val DeltaE: 6.7890
+2025-11-25 05:58:14,199 | INFO | Epoch 29 | Train Loss: 1.5753 | Val DeltaE: 6.8352
+2025-11-25 06:13:20,974 | INFO | Epoch 30 | Train Loss: 1.5764 | Val DeltaE: 6.7915
+2025-11-25 06:28:35,138 | INFO | Epoch 31 | Train Loss: 1.5761 | Val DeltaE: 6.8062
+2025-11-25 06:43:46,889 | INFO | Epoch 32 | Train Loss: 1.5740 | Val DeltaE: 6.7843
+2025-11-25 06:58:58,974 | INFO | Epoch 33 | Train Loss: 1.5718 | Val DeltaE: 6.7633
+2025-11-25 07:14:11,641 | INFO | Epoch 34 | Train Loss: 1.5745 | Val DeltaE: 6.6762
+2025-11-25 07:14:12,377 | INFO | 🏆 New Best Score: 6.6762
+2025-11-25 07:29:18,607 | INFO | Epoch 35 | Train Loss: 1.5659 | Val DeltaE: 6.7478
+2025-11-25 07:44:23,988 | INFO | Epoch 36 | Train Loss: 1.5591 | Val DeltaE: 6.7214
+2025-11-25 07:59:33,602 | INFO | Epoch 37 | Train Loss: 1.5656 | Val DeltaE: 6.7140
+2025-11-25 08:14:46,198 | INFO | Epoch 38 | Train Loss: 1.5595 | Val DeltaE: 6.7329
+2025-11-25 08:29:59,081 | INFO | Epoch 39 | Train Loss: 1.5577 | Val DeltaE: 6.7630
+2025-11-25 08:45:12,535 | INFO | Epoch 40 | Train Loss: 1.5584 | Val DeltaE: 6.7476
+2025-11-25 09:00:25,885 | INFO | Epoch 41 | Train Loss: 1.5605 | Val DeltaE: 6.7533
+2025-11-25 09:16:28,671 | INFO | Epoch 42 | Train Loss: 1.5572 | Val DeltaE: 6.7365
+2025-11-25 09:32:52,085 | INFO | Epoch 43 | Train Loss: 1.5528 | Val DeltaE: 6.7164
+2025-11-25 09:49:07,928 | INFO | Epoch 44 | Train Loss: 1.5567 | Val DeltaE: 6.7075
+2025-11-25 10:04:43,252 | INFO | Epoch 45 | Train Loss: 1.5536 | Val DeltaE: 6.7249
+2025-11-25 10:20:04,900 | INFO | Epoch 46 | Train Loss: 1.5525 | Val DeltaE: 6.7150
+2025-11-25 10:35:10,443 | INFO | Epoch 47 | Train Loss: 1.5493 | Val DeltaE: 6.7382
+2025-11-25 10:50:14,540 | INFO | Epoch 48 | Train Loss: 1.5469 | Val DeltaE: 6.6639
+2025-11-25 10:50:15,246 | INFO | 🏆 New Best Score: 6.6639
+2025-11-25 11:05:19,988 | INFO | Epoch 49 | Train Loss: 1.5526 | Val DeltaE: 6.7135
+2025-11-25 11:20:24,304 | INFO | Epoch 50 | Train Loss: 1.5511 | Val DeltaE: 6.7104
+2025-11-25 11:20:25,025 | INFO | Performing Model Averaging (Finetune)...
+2025-11-25 11:20:25,395 | INFO | 💾 Finetuned model saved as: ./experiments\ISP_Restormer_v4_Finetune\best_model_finetuned.pt

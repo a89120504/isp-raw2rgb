@@ -1,0 +1,16 @@
+# ISP-RAW2RGB Requirements
+
+# Core
+torch>=2.0.0
+numpy
+pandas
+
+# Image Processing
+Pillow
+
+# Training
+tqdm
+matplotlib
+
+# Data Download
+kaggle
